@@ -1,7 +1,7 @@
 /*
 *Plugin Name : iToast
 *Developer : SHAN K PAUL <shanpaul06@gmail.com>
-*website : www.tagprof.com/shan, www.dreamwebz.in
+*website : www.tagprof.com/shan
 *
 */
 
