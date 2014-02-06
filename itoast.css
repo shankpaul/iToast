@@ -1,0 +1,47 @@
+/*
+*Plugin Name : iToast
+*Developer : SHAN K PAUL <shanpaul06@gmail.com>
+*website : www.tagprof.com/shan, www.dreamwebz.in
+*
+*/
+/* 
+    Document   : itoast
+    Created on : 18 Feb, 2013, 11:23:13 AM
+    Author     : shan K paul
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+#itoast_frame{
+    font-family: sans-serif,serif;
+    min-width: 200px;
+    /*border: 2px solid #D6E9C6;
+    background-color: #DFF0D8;
+    color: #468847;*/
+    box-shadow: 0px 1px 2px #D6E9C6;
+    padding: 6px;
+    position: fixed;
+    bottom:60px;
+    font-size: 12px;    
+    text-align: center;
+   
+    border-radius:7px;
+    display: none;
+   
+}
+#itoast_frame:first-letter
+{
+    text-transform: uppercase;
+}
+.theme_red
+{
+    border: 2px solid #da6262;
+    background-color: #cd6c6c;
+    color: #FFF;
+}
+.theme_green
+{
+     border: 2px solid #D6E9C6;
+    background-color: #DFF0D8;
+    color: #468847;
+}
